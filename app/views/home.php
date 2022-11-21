@@ -20,21 +20,21 @@
                 <button type="button" data-bs-target="#thecarousel" data-bs-slide-to="4"></button>
             </div>
 
-            <div class="carousel-inner">
+           <div class="carousel-inner d-flex">
                 <div class="carousel-item active">
-                    <img src="https://img.freepik.com/free-vector/kindergarten-school-scene-with-two-children-playing-toys-room_1308-61743.jpg?t=st=1655493033~exp=1655493633~hmac=855248686d9e7b0cd04b5c24413d1a1adb442dd3fded21b1a4653b3ef936dd40&w=996" alt="First slide" class="d-block w-100" height="500px">
+                    <img src="https://www.satyaday.com/wp-content/uploads/2020/04/165-1656705_e-commerce-news-online-shopping-wallpaper-hd.jpg" alt="First slide" class="d-block w-100" height="300px" >
                 </div>
                 <div class="carousel-item">
-                    <img src="https://putatu.com/storage/campaign/f774561620f3dcf730d66fffd820d278.png" alt="Second slide" class="d-block w-100" height="500px">
+                    <img src="http://tyinternety.cz/wp-content/uploads/2017/04/e-commerce.jpg" alt="Second slide" class="d-block w-100" height="300px">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://i.pinimg.com/originals/60/37/ed/6037ed9add0170c6d368caa182dd7b22.png" alt="Third slide" class="d-block w-100" height="500px">
+                    <img src="https://i0.wp.com/themommydictionary.com/wp-content/uploads/2018/03/free-vector-fashion-shopping-01-vector_000527_fashion_shopping_01_vector.jpg?fit=3898%2C1598&ssl=1" alt="Third slide" class="d-block w-100" height="300px">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://i.pinimg.com/originals/7f/1f/bb/7f1fbbdf63ab5b49e50dc0de5441fab7.png" alt="Third slide" class="d-block w-100" height="500px">
+                    <img src="https://wallpapercave.com/wp/wp5470800.jpg" alt="Third slide" class="d-block w-100" height="300px">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://u6wdnj9wggobj.vcdn.cloud/media/mgs_blog/s/i/sinh-nhat-mykingdom-1004.jpg" alt="Third slide" class="d-block w-100" height="500px">
+                    <img src="https://i.pinimg.com/originals/be/f6/81/bef6819812d0bdd5731a22a7040eae48.png" alt="Third slide" class="d-block w-100" height="300px">
                 </div>
             </div>
 
