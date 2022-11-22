@@ -189,35 +189,7 @@
                         </ul>
                     </div>
 
-                    <div class="role">
-                    <h5>Tư cách</h5>
-                        <ul class="list-group">
-                            <li class="roleli">
-                                <form action="">
-                                <div class="py-1 rol d-inline-block ms-4 d-flex">
-                                    <div>
-                                    <select name="roleId" id="roleID" class="form-control-plaintext">
-				                        <?php
-                                            if($value['roleId']== 1 ) {
-                                        ?>
-                                            <option value="1" selected>Quản trị viên</option>
-                                            <option value="2">Khách hàng</option>
-                                        <?php } else {
-                                        ?>
-                                            <option value="1">Quản trị viên</option>
-                                            <option value="2" selected>Khách hàng</option>
-                                        <?php } ?>
-			                        </select>
-                                    </div>
-                                    <div class="text-end flex-fill">
-                                        <button type="submit" class="btn btn-outline-primary">Cập nhật</button>
-                                    </div>
-                                </div>
-                                </form>
-                            
-                            </li>
-                        </ul>
-                    </div>
+                   
                     
                 </div>
 
