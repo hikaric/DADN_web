@@ -9,7 +9,7 @@
       $result = CategoryModel::getAllClient();
       $listCategory = $result->fetch_all(MYSQLI_ASSOC);
     ?>
-      <nav class="navbar navbar-expand-md navbar-custom navbar-light sticky-top">
+      <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="javascript:App.navigateTo('../views/home.php')">LOGO</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
